@@ -33,9 +33,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/Microsoft_HoloLens-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft HoloLens">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-
-
 </p>
+
 
 ## 🌎 Find me around the web
 
