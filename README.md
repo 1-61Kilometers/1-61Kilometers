@@ -10,7 +10,7 @@
 I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets and robotic animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
 
 ```diff
-+ 🔭 I’m currently working as a VR and physical therapy developer.
++ 🔭 I’m currently working as a VR developer and Student Researcher.
 + 🌱 My research includes IoT Classification by Raspberry Pi Smart hubs using sklearn.
 + 💡 I have developed medical devices for analyzing blood flow and detecting blood clots.
 + 🎨 I created a robotic art piece that visually represents Mars.
