@@ -30,6 +30,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
+  <img src="https://img.shields.io/badge/Microsoft_HoloLens-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft HoloLens">
+
 </p>
 
 ## 🌎 Find me around the web
