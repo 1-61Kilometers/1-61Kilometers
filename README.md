@@ -16,9 +16,11 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 + 🎨 I created a robotic art piece that visually represents Mars.
 + 🕹️ Previously, I was a game technician at Dave & Buster's.
 + 🌿 Developed a self-sustaining indoor plant-growing project using OpenCV, Raspberry Pi, and the Twitter API.
+'''
+
 📫 How to reach me: miles@awesome.dev
 😄 Pronouns: He/Him
-'''
+
 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
