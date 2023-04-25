@@ -5,33 +5,29 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer, always eager to learn and explore new technologies. My love for coding is only surpassed by my enthusiasm for collaborating with others and working on exciting projects!
+I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets, robotic programming, and animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
 
-- 🔭 I’m currently working on a top-secret AI project.
-- 🌱 I’m currently learning Rust and Web3 technologies.
-- 👯 I’m looking to collaborate on open-source projects, hackathons, and innovative ideas.
-- 🤔 I’m looking for help with advanced algorithms and distributed systems.
-- 💬 Ask me about Python, JavaScript, and React.
-- 📫 How to reach me: [miles@awesome.dev](mailto:miles@awesome.dev)
+- 🔭 I’m currently working as a VR and physical therapy developer.
+- 🌱 My previous research includes IoT Classification and Robot Programming for End Users.
+- 💡 I have developed medical devices for analyzing blood flow and detecting blood clots.
+- 🎨 I created a robotic art piece that visually represents Mars.
+- 🕹️ Previously, I was a game technician at Dave & Buster's.
+- 🌿 Developed a self-sustaining indoor plant-growing project.
+- 📫 How to reach me: [popielamc@vcu.edu](mailto:miles@awesome.dev)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've traveled to more than 30 countries and can speak 4 languages.
 
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TwitterAPI-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
 
 ## 🌎 Find me around the web
 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/miles-awesome/)
-- Showcasing my work on [Behance](https://www.behance.net/miles-awesome)
-- Tweeting about tech and life on [Twitter](https://twitter.com/miles_awesome)
-- Writing articles on [Medium](https://medium.com/@miles.awesome)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/milespopiela/)
+- Showcasing my work on [YouTube](https://www.youtube.com/channel/UCh-rTbF0ldUvrpukUCPmo_A)
 
