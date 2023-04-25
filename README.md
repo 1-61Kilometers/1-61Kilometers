@@ -29,11 +29,14 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/Code-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Code-TwitterAPI-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a" alt="Twitter API">
 </p>
-🌎 Find me around the web
+## 🌎 Find me around the web
+
 <p>
   <a href="https://www.linkedin.com/in/milespopiela/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://www.youtube.com/channel/UCh-rTb](https://www.youtube.com/channel/UCh-rTbF0ldUvrpukUCPmo_A)>
-  
+  <a href="https://www.youtube.com/channel/UCh-rTbF0ldUvrpukUCPmo_A" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+</p>
+'''
