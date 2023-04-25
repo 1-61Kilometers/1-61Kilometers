@@ -18,8 +18,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 + 🌿 Developed a self-sustaining indoor plant-growing project.
 ```
 
-# 📫 How to reach me: popielamc@vcu.edu
-# 😄 Pronouns: He/Them
+## 📫 How to reach me: popielamc@vcu.edu
+## 😄 Pronouns: He/Them
 
 ## 🛠️ Technologies & Tools
 <p>
