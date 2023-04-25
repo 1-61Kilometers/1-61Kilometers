@@ -18,7 +18,7 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 + 🌿 Developed a self-sustaining indoor plant-growing project using OpenCV, Raspberry Pi, and the Twitter API.
 📫 How to reach me: miles@awesome.dev
 😄 Pronouns: He/Him
-
+'''
 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
@@ -39,4 +39,4 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-'''
+
