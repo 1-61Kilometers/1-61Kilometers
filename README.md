@@ -31,6 +31,9 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
   <img src="https://img.shields.io/badge/Microsoft_HoloLens-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft HoloLens">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+
 
 </p>
 
