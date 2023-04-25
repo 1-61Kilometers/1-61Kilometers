@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets, robotic programming, and animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
+I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets and robotic animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
 
 ```diff
 + 🔭 I’m currently working as a VR and physical therapy developer.
@@ -18,8 +18,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 + 🌿 Developed a self-sustaining indoor plant-growing project using OpenCV, Raspberry Pi, and the Twitter API.
 ```
 
-# 📫 How to reach me: miles@awesome.dev
-# 😄 Pronouns: He/Him
+# 📫 How to reach me: popielamc@vcu.edu
+# 😄 Pronouns: He/Them
 
 🛠️ Technologies & Tools
 <p>
