@@ -21,16 +21,17 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 # 📫 How to reach me: popielamc@vcu.edu
 # 😄 Pronouns: He/Them
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
-  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" alt="C#">
-  <img src="https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a" alt="Unity">
-  <img src="https://img.shields.io/badge/Code-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Code-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Code-TwitterAPI-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a" alt="Twitter API">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
 </p>
+
 ## 🌎 Find me around the web
 
 <p>
