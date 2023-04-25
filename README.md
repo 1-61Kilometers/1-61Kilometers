@@ -18,8 +18,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 + 🌿 Developed a self-sustaining indoor plant-growing project using OpenCV, Raspberry Pi, and the Twitter API.
 '''
 
-📫 How to reach me: miles@awesome.dev
-😄 Pronouns: He/Him
+# 📫 How to reach me: miles@awesome.dev
+# 😄 Pronouns: He/Him
 
 🛠️ Technologies & Tools
 <p>
