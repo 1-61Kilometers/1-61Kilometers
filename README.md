@@ -11,11 +11,11 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 
 ```diff
 + 🔭 I’m currently working as a VR developer and Student Researcher.
-+ 🌱 My research includes IoT Classification by Raspberry Pi Smart hubs using sklearn.
++ 🌱 My research includes IoT Classification and End Users Robot Programming.
 + 💡 I have developed medical devices for analyzing blood flow and detecting blood clots.
 + 🎨 I created a robotic art piece that visually represents Mars.
 + 🕹️ Previously, I was a game technician at Dave & Buster's.
-+ 🌿 Developed a self-sustaining indoor plant-growing project using OpenCV, Raspberry Pi, and the Twitter API.
++ 🌿 Developed a self-sustaining indoor plant-growing project.
 ```
 
 # 📫 How to reach me: popielamc@vcu.edu
