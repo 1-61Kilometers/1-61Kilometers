@@ -40,6 +40,7 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Adafruit-674172?style=for-the-badge&logo=adafruit&logoColor=white" alt="Adafruit">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure">
 </p>
 
 
