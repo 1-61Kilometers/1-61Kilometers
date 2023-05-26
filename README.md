@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Miles! 👋
+# 🚀 Hi there, I'm Miles and I am currently a Graduate Student at Virginia Commonwealth University 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1-61Kilometers&show_icons=true&theme=radical" alt="Miles's GitHub stats">
