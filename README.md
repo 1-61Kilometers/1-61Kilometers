@@ -28,6 +28,7 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Microsoft_HoloLens-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft HoloLens">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/ABB_RobotStudio-EA0000?style=for-the-badge&logo=ABB&logoColor=white" alt="RobotStudio">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
@@ -40,7 +41,6 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
   <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Adafruit-674172?style=for-the-badge&logo=adafruit&logoColor=white" alt="Adafruit">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure">
 </p>
 
 
