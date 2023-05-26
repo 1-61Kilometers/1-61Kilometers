@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Miles! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-61KilometersPAT_1&show_icons=true&theme=radical" alt="Miles's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=1-61Kilometers&show_icons=true&theme=radical" alt="Miles's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-61Kilometers&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
