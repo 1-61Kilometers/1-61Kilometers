@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-# ~ Current Graduate Student at Virginia Commonwealth University C
+# ~ Current Graduate Student at Virginia Commonwealth University ~
 I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets and robotic animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
 
 ```diff
