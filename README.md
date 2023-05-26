@@ -10,10 +10,10 @@
 I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets and robotic animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics.
 
 ```diff
-+ 🔭 I’m currently working as a VR developer and Student Researcher.
-+ 🌱 My research includes IoT Classification and End Users Robot Programming.
++ 🔭 I’m currently working as a VR game developer for VCU Health in the Biomedical Motor Control Lab.
++ 🌱 My research includes End Users Robot Programming, VR Biomedical Motor Control, and IoT Classification.
 + 💡 I have developed medical devices for analyzing blood flow and detecting blood clots.
-+ 🎨 I created a robotic art piece that visually represents Mars.
++ 🎨 I created a robotic art piece that visually represents Mars and complex computer science topics.
 + 🕹️ Previously, I was a game technician at Dave & Buster's.
 + 🌿 Developed a self-sustaining indoor plant-growing project.
 ```
