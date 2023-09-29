@@ -12,8 +12,8 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 
 ```diff
 + 🔭 I’m currently working as a VR game developer for VCU Health in the Biomedical Motor Control Lab.
-+ 🌱 My research includes End Users Robot Programming, VR Biomedical Motor Control, and IoT Classification.
-+ 💡 I have developed medical devices for analyzing blood flow and detecting blood clots.
++ 🌱 My research includes VR Sentiment Analysis, End Users Robot Programming, VR Biomedical Motor Control, and IoT Classification.
++ 💡 I've developed medical devices for analyzing blood flow and detecting blood clots.
 + 🎨 I created a robotic art piece that visually represents Mars and complex computer science topics.
 + 🕹️ Previously, I was a game technician at Dave & Buster's.
 + 🌿 Developed a self-sustaining indoor plant-growing project.
