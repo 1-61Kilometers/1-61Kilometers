@@ -1,4 +1,6 @@
-# 🚀 Hi there, I'm Miles!👋
+# 🚀 Introducing Miles!👋
+
+# The majority of my work is stored within Plastic SCM which is company property
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1-61Kilometers&show_icons=true&theme=radical" alt="Miles's GitHub stats">
@@ -10,7 +12,7 @@
 ### ~ Current Graduate Student at Virginia Commonwealth University ~
 I'm a creative and passionate software developer, specializing in Mixed and Virtual Reality toolsets and robotic animation interfaces. I am dedicated to blending technology and art to create stunning visual representations of computer science topics. 
 
-#The majority of my work is stored within Plastic SCM which is company property
+
 
 ```diff
 + 🔭 I’m currently working as a VR game developer for VCU Health in the Biomedical Motor Control Lab.
