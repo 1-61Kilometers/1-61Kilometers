@@ -24,7 +24,7 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 ```
 
 ## 📫 How to reach me: popielamc@vcu.edu
-## 😄 Pronouns: He/Them
+## 😄 Pronouns: He/Him
 
 ## 🛠️ Technologies & Tools
 <p>
