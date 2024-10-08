@@ -15,6 +15,7 @@ I'm a creative and passionate software developer, specializing in Mixed and Virt
 
 
 ```diff
++ 🤖 New position at Molg writing Workforce Development planning on Disassembly Toolchains and Deployable Robotic Cells. 
 + 🔭 I’m currently working as a VR game developer for VCU Health in the Biomedical Motor Control Lab.
 + 🌱 My research includes VR Sentiment Analysis, End Users Robot Programming, VR Biomedical Motor Control, and IoT Classification.
 + 💡 I've developed medical devices for analyzing blood flow and detecting blood clots.
