@@ -1,6 +1,6 @@
 # 🚀 Introducing Miles!👋
 
-#I don't use GitHub as much as I should
+# I don't use GitHub as much as I should
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1-61Kilometers&show_icons=true&theme=radical" alt="Miles's GitHub stats">
