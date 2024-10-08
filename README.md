@@ -1,6 +1,6 @@
 # 🚀 Introducing Miles!👋
 
-# The majority of my work is stored within Plastic SCM which is company property
+#I don't use GitHub as much as I should
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1-61Kilometers&show_icons=true&theme=radical" alt="Miles's GitHub stats">
